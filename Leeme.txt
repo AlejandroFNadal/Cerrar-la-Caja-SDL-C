@@ -1,0 +1,3 @@
+Instrucciones Para Jugar
+Descomprimir El ZIP en una carpeta cualquiera, donde no se mezcle con otros archivos.
+Doble Click a Cerra la Caja.exe
